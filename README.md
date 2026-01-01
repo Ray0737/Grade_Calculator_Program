@@ -11,7 +11,8 @@ I created this program to help people calculate their minimum points on final ex
 
 | Detail | Value |
 | :--- | :--- |
-| **Purpose** | Grade Prediction |
+| **Purpose** | Grade Prediction |.
+| **Tools** | GUI - Tkinter |
 | **Current Version** | 1.2.0 |
 | **Latest Edit** | January 1, 2026|
 
