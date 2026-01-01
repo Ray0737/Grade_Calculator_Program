@@ -1,6 +1,10 @@
 # Grade Calculator Program
 Side Project 
 
+## Project Details:
+
+I created this program to help people calculate their minimum points on final exam to acheieve their desired grade.
+
 ---
 
 ## Project Status:
